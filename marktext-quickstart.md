@@ -104,7 +104,7 @@ Mark Text 是一款开源、免费的 Markdown 编辑器，支持 Windows、macO
 
   
 
-> 📸 截图建议：截取 GitHub Releases 页面，用红框标出最新版本的下载链接。
+> 下载页面参考：https://github.com/marktext/marktext/releases/latest
 
   
 
@@ -138,8 +138,7 @@ Mark Text 是一款开源、免费的 Markdown 编辑器，支持 Windows、macO
 
   
 
-> 📸 截图建议：截取 Mark Text 默认启动后的完整窗口，用箭头标注编辑区、工具栏、文件树面板的位置。
-
+> ![空白界面](01-marktext-quickstart-blank.jpg.jpg)
   
 
 ---
@@ -261,8 +260,8 @@ Mark Text 是一款开源、免费的 Markdown 编辑器，支持 Windows、macO
 
   
 
-> 📸 截图建议：截取编辑区内一段写好的示例文本，展示标题、列表、链接的实际渲染效果。
-
+>![编辑内容](02-marktext-quickstart-content.jpg.jpg)
+>![保存后的文件](03-marktext-saved-file.jpg.jpg)
   
 
 ---
@@ -346,10 +345,6 @@ Mark Text 内置了浅色和深色两种主题：
 - 行内公式：用单个美元符号包裹，如 `$E=mc^2$`
 
 - 独立公式：用两个美元符号包裹，如 `$$\int_a^b f(x)dx$$`
-
-  
-
-> 📸 截图建议：分别截取专注模式和暗色主题的效果图。
 
   
 
